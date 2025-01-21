@@ -1,13 +1,17 @@
 
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47fennzg7wpsytejfsyg9to5ad8vhuqne9ji5mexhn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30"/> Bem vindo ao meu GitHub
-
-###
+### Bem vindo ao meu GitHub
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilodiasz/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contatodias.danilo@gmail.com)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://drive.google.com/file/d/1SWD6OY9Bx7J9TGPzzfXpsjP63ND9MWVZ/view?usp=sharing)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](danilof.dias3@hotmail.com)
+
+#
+
+###### Programador motivado, com meta de alcançar excelência em desenvolvimento de software. Busco uma oportunidade para aplicar as minhas habilidades, aprender com especialistas e contribuir para o sucesso e desenvolvimento da empresa.
+
+#
 
 ### Tecnologias 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -36,8 +40,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloDiasLTDA&layout=compact&theme=dark)
 ##
-
-Programador motivado, com meta de alcançar excelência em desenvolvimento de software. Busco uma oportunidade para aplicar as minhas habilidades, aprender com especialistas e contribuir para o sucesso e desenvolvimento da empresa.
 
 Atenciosamente, Danilo Dias
  
